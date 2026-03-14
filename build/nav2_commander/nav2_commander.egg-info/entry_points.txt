@@ -1,0 +1,3 @@
+[console_scripts]
+commander = nav2_commander.commander:main
+patrol = nav2_commander.patrol:main

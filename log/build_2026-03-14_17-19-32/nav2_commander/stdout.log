@@ -1,0 +1,18 @@
+running develop
+running egg_info
+writing nav2_commander.egg-info/PKG-INFO
+writing dependency_links to nav2_commander.egg-info/dependency_links.txt
+writing entry points to nav2_commander.egg-info/entry_points.txt
+writing requirements to nav2_commander.egg-info/requires.txt
+writing top-level names to nav2_commander.egg-info/top_level.txt
+reading manifest file 'nav2_commander.egg-info/SOURCES.txt'
+writing manifest file 'nav2_commander.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/abhirup-chakraborty/nav_project/install/nav2_commander/lib/python3.12/site-packages/nav2-commander.egg-link (link to .)
+Installing commander script to /home/abhirup-chakraborty/nav_project/install/nav2_commander/lib/nav2_commander
+Installing patrol script to /home/abhirup-chakraborty/nav_project/install/nav2_commander/lib/nav2_commander
+
+Installed /home/abhirup-chakraborty/nav_project/build/nav2_commander
+running symlink_data
+symbolically linking /home/abhirup-chakraborty/nav_project/build/nav2_commander/resource/nav2_commander -> /home/abhirup-chakraborty/nav_project/install/nav2_commander/share/ament_index/resource_index/packages
+symbolically linking /home/abhirup-chakraborty/nav_project/build/nav2_commander/package.xml -> /home/abhirup-chakraborty/nav_project/install/nav2_commander/share/nav2_commander
